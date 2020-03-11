@@ -59,6 +59,7 @@
 4. Sharp attention to detail and a drive for perfection; 
 5. Ability to plan development over time, resilience towards long term objectives and goals.
 6. The ideal candidate has 2+ years of Community Management experience.
+
 ___
-Contact us through: contact@dforce.network 
+Contact us through: contacts@dforce.network 
 Check out more about dForce through: https://dforce.network/
