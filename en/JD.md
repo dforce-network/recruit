@@ -1,4 +1,4 @@
-###Blockchain Smart Contract Software Engineer
+### Blockchain Smart Contract Software Engineer
 
 **Job Responsibilities:**
 1. Be able to dive deeply into technical details on the design and source code of frontier DeFi protocols;
@@ -18,7 +18,7 @@
 8. Able to work remotely and communicate effectively with the team;
 9. Willing to take responsibility and sustain challenges.
 
-###Frontend Software Engineer
+### Frontend Software Engineer
 
 **Job Responsibilities:**
 1. Build the frontend components and develop customer-driven enhancement to the web application for DeFi protocols of dForce;
@@ -40,7 +40,7 @@
 2. Solid understanding of blockchain technology.
 
 
-###Operation Manager
+### Operation Manager
 
 **Responsibilities**
 1. Provide engaging text, image, video content (Yes! We love memes!) for dForce social channels (Telegram, Facebook, Twitter, YouTube, LinkedIn, Reddit, Instagram) and respond to all posts with engaging content and encourage open feedbacks; 
