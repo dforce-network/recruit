@@ -64,5 +64,6 @@
 6. The ideal candidate has 2+ years of Community Management experience.
 
 ___
-Contact us through: hr@dforce.network 
+Contact us through: hr@dforce.network
+
 Check out more about dForce through: https://dforce.network/
