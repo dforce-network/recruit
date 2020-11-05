@@ -18,6 +18,8 @@
 8. Able to work remotely and communicate effectively with the team;
 9. Willing to take responsibility and sustain challenges.
 
+--------
+
 ### Frontend Software Engineer
 
 **Job Responsibilities:**
@@ -39,6 +41,7 @@
 1. Experience with financial products of super quality. 
 2. Solid understanding of blockchain technology.
 
+--------
 
 ### Operation Manager
 
@@ -61,5 +64,5 @@
 6. The ideal candidate has 2+ years of Community Management experience.
 
 ___
-Contact us through: contacts@dforce.network 
+Contact us through: hr@dforce.network 
 Check out more about dForce through: https://dforce.network/
