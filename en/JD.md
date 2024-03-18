@@ -77,29 +77,6 @@ Send your CV and any relevant socials and files to contact@dforce.network
 **Preferred Qualifications:**
 1. Experience with financial products of super quality. 
 2. Solid understanding of blockchain technology.
-
---------
-
-### Operation Manager
-
-**Responsibilities**
-1. Provide engaging text, image, video content (Yes! We love memes!) for dForce social channels (Telegram, Facebook, Twitter, YouTube, LinkedIn, Reddit, Instagram) and respond to all posts with engaging content and encourage open feedbacks; 
-2. Build and maintain robust relationship with major DeFi communities;
-3. Gather information and report on major trends of competitors in DeFi space, provide insightful conclusion in a clean and efficient manner;
-4. Participate in the planning, execution of marketing campaigns with the aim of increasing community engagement, and boost brand awareness; 
-5. Participate in potential cooperation negotiation and evaluation of overseas partnership opportunities;
-6. Work with product/sales team to support new product and offering launch and existing products communications to community; 
-7. Produce monthly newsletter and other web contents; 
-8. Other related tasks assigned.
-   
-**Qualifications**
-1. Must be fluent in English (native speaker preferred, bilingual in Chinese is a huge plus);
-2. Solid understanding of popular social networks (Telegram, Facebook, Twitter, YouTube, LinkedIn, Reddit, Instagram) and enjoy responding to each comment with engaging content; 
-3. Appetite for understanding blockchain and DeFi;
-4. Sharp attention to detail and a drive for perfection; 
-5. Ability to plan development over time, resilience towards long term objectives and goals.
-6. The ideal candidate has 2+ years of Community Management experience.
-
 ___
 Contact us through: hr@dforce.network
 
