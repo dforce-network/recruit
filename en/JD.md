@@ -33,6 +33,8 @@ Participate in managing dForce’s community platforms like Discord, Telegram et
 
 Send your CV and any relevant socials and files to contact@dforce.network
 
+--------
+
 ### Blockchain Smart Contract Software Engineer
 
 **Job Responsibilities:**
